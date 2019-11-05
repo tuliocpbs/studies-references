@@ -1,14 +1,22 @@
-# Portal de Qualidade - Entendendo a Matrix
+# Bob's World
 
-## Referências (Materiais para Estudo)
+## References
 
-### Metodologia Ágil
+### Management
 
 - [Management 3.0](https://management30.com/)
 
-- [SCRUM ]
+### Metodologia Ágil
 
-### Testes Automatizados
+- [SCRUM]
+
+### Testes
+
+#### Integration Test
+
+- [Concept by Martin Fowler](https://martinfowler.com/bliki/IntegrationTest.html)
+
+- [On practice](https://techbeacon.com/devops/6-best-practices-integration-testing-continuous-integration)
 
 ### Boas Práticas
 
